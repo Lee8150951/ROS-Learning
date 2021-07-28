@@ -1,0 +1,2 @@
+learning_topic
+-DCATKIN_DEVEL_PREFIX=/home/jacob/Desktop/TestWorkspace/devel -DCMAKE_INSTALL_PREFIX=/home/jacob/Desktop/TestWorkspace/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/TestWorkspace/devel
+
+Name: test_pkg
+Description: Description of test_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/TestWorkspace/devel/lib 
+Requires: 
